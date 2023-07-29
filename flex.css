@@ -1,0 +1,28 @@
+h1{
+	background-color: red;
+	color: white;
+}
+
+
+.flex-container{
+	background-color: green;
+	height: 120vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+/*	justify-content: flex-start;*/
+/*	flex-direction: row-reverse;*/
+/*flex-wrap: wrap;
+align-content:space-between;
+*/
+}
+
+.flex-container >div{
+	background-color: purple;
+	height: 15vh;
+	border: 2px solid gold;
+	width:300px;
+	color: yellow;
+	
+/*	margin: 5px;*/
+}

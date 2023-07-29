@@ -1,0 +1,12 @@
+body{background-color: lightgoldenrodyellow;
+
+	color: red;
+    border:5px solid black;
+    border-radius: 10%;
+    margin: 1cm; 
+ padding: 2cm;
+}
+
+
+#serious{ background-color:yellow; padding-left: 0.5cm;  border:2px solid black; margin-right: 20cm}
+

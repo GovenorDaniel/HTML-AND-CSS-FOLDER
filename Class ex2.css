@@ -1,0 +1,179 @@
+body{
+    margin-left: 312px;
+	margin-right:312px;
+	margin-top: 20px;
+	width: 90%;
+	background-color:lightsteelblue;
+}
+
+
+.p1{
+
+	border: 0.2px solid;
+	height: 29vh;
+	width: 639px;
+	background-color: blue;
+	margin-left: 30px;
+	margin-right: 30px;
+    display: flex;
+   flex-direction: column;
+   justify-content: flex-end;
+   border-radius: 4%;
+   border-color: grey;
+
+
+   
+
+}
+
+.p1 >div{
+	border: 0.2px solid;
+	height: 24vh;
+	width: 639px;
+	background-color: white;
+	border-color: grey;
+	
+
+}
+
+
+#p2{
+	border: 1px solid;
+	border-color: grey;
+	width: 639px;
+	height: 15vh;
+	background-color: white;
+	margin-left: 312px;
+	margin-right: 312px;
+	display-flex:flex;
+
+	
+}
+
+
+.two{
+	margin-left: 25px;
+	margin-top: 25px;
+}
+
+
+
+
+#p3{
+	border: 1px solid;
+	border-color: grey;
+	width: 639px;
+	height: 15vh;
+	background-color: white;
+	margin-left: 30px;
+	margin-right: 30px;
+	display-flex:flex;
+
+	
+}
+
+#p4{
+	border: 1px solid;
+	border-color: grey;
+	width: 639;
+	height: 20vh;
+	background-color: white;
+	border-radius: 5%;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 20px;
+}
+
+#p5{
+	border: 1px solid;
+	border-color: grey;
+	width: 20cm;
+	height: 22vh;
+	background-color: white;
+	border-radius: 5%;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 20px;
+}
+
+#p6{
+	border: 1px solid;
+	border-color: grey;
+	width: 20cm;
+	height: 22vh;
+	background-color: white;
+	border-radius: 5%;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 20px;
+}
+
+
+#p7{
+	border: 1px solid;
+	border-color: grey;
+	width: 20cm;
+	height: 22vh;
+	background-color: white;
+	border-radius: 5%;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 20px;
+}
+
+
+#p8{
+	border: 1px solid;
+	border-color: grey;
+	width: 20cm;
+	height: 18vh;
+	background-color: white;
+	border-radius: 5%;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 20px;
+}
+
+#p9{
+	border: 1px solid;
+	border-color: grey;
+	width: 20cm;
+	height: 18vh;
+	background-color: white;
+	border-radius: 5%;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 20px;
+}
+
+#p10{
+	border: 1px solid;
+	border-color: grey;
+	width: 20cm;
+	height: 18vh;
+	background-color: white;
+	border-radius: 5%;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 20px;
+}
+
+#p11{
+	border: 1px solid;
+	border-color: grey;
+	width: 20cm;
+	height: 18vh;
+	background-color: white;
+	border-radius: 5%;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 20px;
+}
+
+#form1{
+	margin-left: 25px;
+	margin-top: 25px;
+}
+
+
+
